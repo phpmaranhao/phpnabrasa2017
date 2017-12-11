@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## PHP na Brasa 2017 - 16/12/2017
 
-You can use the [editor on GitHub](https://github.com/phpmaranhao/phpnabrasa2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+O PHP na Brasa é um evento totalmente informal e descontraído organizado grupo PHP Maranhão. Tem como principal objetivo aproximar os profissionais da área de T.I de São Luís, não se limitando aos que utilizam PHP no seu dia a dia. Cerveja gelada, churrasco a vontade e muito bate papo definem o evento.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quando?
 
-### Markdown
+Esse ano o evento acontecerá no sábado, dia 16/12/2017.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Onde?
 
-```markdown
-Syntax highlighted code block
+O evento acontecerá na ASFUPEMA - Associação dos Funcionários do Ministério Público do Maranhão, que fica no endereço endereço: Rua General Arthur Carvalho, 600 (Rua da sede Sampaio Correia, depois da curva que entra para a AERCA).
 
-# Header 1
-## Header 2
-### Header 3
+[Cick e veja o local no Google Maps](https://www.google.com.br/maps/place/ASFUPEMA/@-2.5110939,-44.2184362,813m/data=!3m1!1e3!4m5!3m4!1s0x7f691876c909805:0xf731ef06ce098d41!8m2!3d-2.5110939!4d-44.2162421?hl=pt-BR).
 
-- Bulleted
-- List
+## QUANTO?
 
-1. Numbered
-2. List
+Só R$60,00 pilas... Churrasco, bebida, cachaça, submarino... Tudo isso em um lugar bacana e com gente da sua gente. :)
 
-**Bold** and _Italic_ and `Code` text
+## Contato?
 
-[Link](url) and ![Image](src)
-```
+Caso queira participar do evento entre em contato com @o_mano no telegram ou através do nosso grupo no [Telegram](https://telegram.me/phpmaranhao).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Participantes
 
-### Jekyll Themes
+Essa é a lista dos participantes (quase) confirmados para o evento:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phpmaranhao/phpnabrasa2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Vaga | Nome              | Confirmado |
+|------|-------------------|------------|
+| #01  | Daniela Montelo   | true       |
+| #02  | Willian Mano      | true       |
+| #03  | Jacson Santos     | false      |
+| #04  | Nanderson Castro  | false      |
+| #05  | Antônio Rabelo    | false      |
+| #06  | Lucas Sousa       | false      |
+| #07  | Felipe Pimenta    | false      |
+| #08  | Evaldo Barbosa    | true       |
+| #09  | Ricardo Coelho    | true       |
+| #10  | Alisson Gomes     | false      |
+| #11  | Flaviano honorato | false      |
+| #12  | Atmos Maciel      | false      |
+| #13  | Pedro Felipe      | false      |
